@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LinkedListExample",
+            "request": "launch",
+            "mainClass": "LinkedListExample",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumdigit",
+            "request": "launch",
+            "mainClass": "sumdigit",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiralmatrix",
+            "request": "launch",
+            "mainClass": "spiralmatrix",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch pallindromstring1",
+            "request": "launch",
+            "mainClass": "pallindromstring1",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascaltriangle",
+            "request": "launch",
+            "mainClass": "pascaltriangle",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
             "name": "Launch Pattern",
             "request": "launch",
             "mainClass": "Pattern",
