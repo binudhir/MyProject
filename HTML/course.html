@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<title>Course Page</title>
+</head>
+<body>
+<header>
+<ul class="nav nav-pills">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
+</header>
+<main> 
+<div class="container mt-5 col-6">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Chapter Name" area-describedby="button-addon2">          
+        <button id="add_btn"  type="button" class="btn btn-outline-success" id="button-addon2">Add</button>
+    </div>
+    <ul id="chapterList" class="list-group">
+        <li class="list-group-item">Chapter-1</li>       
+    </ul>
+</div>
+</main>
+
+<script>
+    let addBtn=document.getElementById('add_btn')
+    addBtn.addEventListener('click', addchapter)
+    function addchapter(e){
+        let currentBtn=e.currentTarget;
+        let currentInput=currentBtn.previousElementSibling
+        
+        let newLi=document.createElement('Li')
+        newLi.classList.add('list-group-item')
+        newLi.textContent=currentInput.value
+
+        let chapterList=document.getElementById('chapterList');
+        chapterList.appendChild(newLi)
+    }
+</script>
+</body>
+</html>
+

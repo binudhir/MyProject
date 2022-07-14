@@ -1,0 +1,127 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch devisible",
+            "request": "launch",
+            "mainClass": "devisible",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch starpettern",
+            "request": "launch",
+            "mainClass": "starpettern",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionsum",
+            "request": "launch",
+            "mainClass": "recursionsum",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerofHanoi",
+            "request": "launch",
+            "mainClass": "TowerofHanoi",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch excelnumber",
+            "request": "launch",
+            "mainClass": "excelnumber",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcm",
+            "request": "launch",
+            "mainClass": "lcm",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch testbinu",
+            "request": "launch",
+            "mainClass": "testbinu",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "MvcAdoDemo.Hello",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch fullpyramid",
+            "request": "launch",
+            "mainClass": "fullpyramid",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxsumbothside",
+            "request": "launch",
+            "mainClass": "maxsumbothside",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "java",
+            "name": "Launch antidiagonal",
+            "request": "launch",
+            "mainClass": "antidiagonal",
+            "projectName": "JAVA_3995c358"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
