@@ -9,6 +9,13 @@
             "name": "Launch Pattern",
             "request": "launch",
             "mainClass": "Pattern",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
             "projectName": "JAVA_3995c358"
         },
         {
