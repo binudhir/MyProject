@@ -8,5 +8,11 @@ public class LinkedListExample{
         li.add("Dhir");
         li.add(1,"Bihari");
         System.out.println(li);
+        li.add("is");
+        li.add("Good");
+        li.add("Good.");
+        System.out.println("Initial Linkedlist" + li);
+        li.set(5, "Programmer.");
+        System.out.println("Updated Linkedlist" + li);
     }
 }
