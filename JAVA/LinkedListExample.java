@@ -3,7 +3,7 @@
 import java.util.*; 
 public class LinkedListExample{
     public static void main(String[] args) {
-        LinkedList <String> li=new LinkedList<>();
+        LinkedList<String> li=new LinkedList<>();
         li.add("Binod");
         li.add("Dhir");
         li.add(1,"Bihari");

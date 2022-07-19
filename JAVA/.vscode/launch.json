@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch linkedListrecursion",
+            "request": "launch",
+            "mainClass": "linkedListrecursion",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListReverse",
+            "request": "launch",
+            "mainClass": "LinkedListReverse",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLMidleElement",
+            "request": "launch",
+            "mainClass": "LLMidleElement",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
             "name": "Launch LinkedListExample",
             "request": "launch",
             "mainClass": "LinkedListExample",
