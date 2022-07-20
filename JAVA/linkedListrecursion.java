@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import org.w3c.dom.html.HTMLFieldSetElement;
 
 // Recursive Java program to reverse
 // a linked list
@@ -53,12 +52,14 @@ public class linkedListrecursion {
             push(ll);
             n--;
         }
+        sc.close();
         System.out.println("Given Linked List :");
         print(head);
-
+        //Call reverse function
         head=reverselist(head);
         System.out.println("After Reverse the List :");
         print(head);
+        
     }
 
 }
