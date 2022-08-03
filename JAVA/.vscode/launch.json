@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch beggerinTemple",
+            "request": "launch",
+            "mainClass": "beggerinTemple",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxSum_sub_matrix",
+            "request": "launch",
+            "mainClass": "maxSum_sub_matrix",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch areaCircle",
+            "request": "launch",
+            "mainClass": "areaCircle",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
             "name": "Launch linkedListrecursion",
             "request": "launch",
             "mainClass": "linkedListrecursion",
