@@ -49,7 +49,7 @@ public class Client{
                         System.out.println("Enter Roll Number :");
                         int roll=sc.nextInt();
                         boolean f = dao.showStudentById(roll);
-                        if(f == false)
+                        if(!f)
                             System.out.println(roll + " is not found in System.");
                                              
                         break;

@@ -1,0 +1,676 @@
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\EIMS.exe
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\EIMS.pdb
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\EIMS.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\office.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\bin\Debug\office.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmjrn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpayment.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmschedule.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpurchret.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmporder.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmrefund.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmrejection.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmiss.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbkissue.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbksearch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmscroll.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmauthor.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbook.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpromote.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpublication.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmshelf.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmenqiry.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmitem.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmstaf.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmstudreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmperiod.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmdist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmstat.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmcntr.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmquali.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmoccu.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmdesg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmdept.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmpgroup.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmitgrp.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmgodn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmunit.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmparty.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmcollhd.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmtrade.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsem.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsession.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmuniversity.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsubmst.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_colregall.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_studleg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_recledg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_colreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_stflist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.rep_studledg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmprnt.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsetting.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmviewer1.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmviewer.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmbackup.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmdbpath.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmdbset.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmcompany.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmusermod.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmuser.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmlogin.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.frmmailus.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.MDI.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.Resources.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\RdlCompile.cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\RdlCompile.compiled
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.exe
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\EIMS\obj\Debug\EIMS.pdb
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.exe
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.xml
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.pdb
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\EIMS.exe
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\EIMS.pdb
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\EIMS.xml
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\office.dll
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\My Jobs\VB.Net\EIMS\EIMS\bin\Debug\office.xml
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmjrn.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpayment.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmschedule.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpurchret.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmporder.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmrefund.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmrejection.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmiss.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbkissue.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbksearch.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmscroll.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmauthor.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbook.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpromote.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpublication.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmshelf.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmenqiry.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmitem.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmstaf.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmstudreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmperiod.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmdist.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmstat.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmcntr.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmquali.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmoccu.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmdesg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmdept.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmpgroup.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmitgrp.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmgodn.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmunit.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmparty.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmcollhd.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmtrade.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsem.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsession.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmuniversity.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsubmst.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_colregall.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_studleg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_recledg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_colreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_stflist.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.rep_studledg.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmprnt.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsetting.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmviewer1.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmviewer.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmbackup.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmdbpath.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmdbset.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmcompany.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmusermod.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmuser.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmlogin.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.frmmailus.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.MDI.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.Resources.resources
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\RdlCompile.cache
+D:\My Jobs\VB.Net\EIMS\EIMS\obj\Debug\RdlCompile.compiled
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.xml
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.pdb
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmjrn.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpayment.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmschedule.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpurchret.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmporder.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmrefund.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmrejection.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmiss.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbkissue.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbksearch.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmscroll.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmauthor.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbook.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpromote.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpublication.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmshelf.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmenqiry.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmitem.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmstaf.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmstudreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmperiod.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmdist.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmstat.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmcntr.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmquali.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmoccu.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmdesg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmdept.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmpgroup.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmitgrp.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmgodn.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmunit.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmparty.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmcollhd.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmtrade.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsem.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsession.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmuniversity.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsubmst.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_colregall.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_stockreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_studleg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_recledg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_colreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_stflist.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.rep_studledg.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmprnt.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsetting.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmviewer1.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmviewer.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmbackup.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmdbpath.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmdbset.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmcompany.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmusermod.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmuser.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmlogin.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.frmmailus.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.MDI.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.Resources.resources
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\RdlCompile.cache
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\RdlCompile.compiled
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\EIMS.exe
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\EIMS.pdb
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\EIMS.xml
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\office.dll
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MY PROJECT\VB DOTNET\EIMS\bin\Debug\office.xml
+D:\MY PROJECT\VB DOTNET\EIMS\obj\Debug\EIMS.exe
+D:\My Jobs\VB.Net\EIMS\bin\Debug\EIMS.exe
+D:\My Jobs\VB.Net\EIMS\bin\Debug\EIMS.pdb
+D:\My Jobs\VB.Net\EIMS\bin\Debug\EIMS.xml
+D:\My Jobs\VB.Net\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\My Jobs\VB.Net\EIMS\bin\Debug\office.dll
+D:\My Jobs\VB.Net\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\My Jobs\VB.Net\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\My Jobs\VB.Net\EIMS\bin\Debug\office.xml
+D:\My Jobs\VB.Net\EIMS\obj\Debug\ResolveAssemblyReference.cache
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmjrn.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpayment.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmschedule.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpurchret.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmporder.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmrefund.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmrejection.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmiss.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbkissue.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbksearch.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmscroll.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmcourse.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmauthor.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbook.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpromote.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpublication.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmshelf.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmenqiry.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmitem.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmstaf.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmstudreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmperiod.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmdist.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmstat.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmcntr.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmquali.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmoccu.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmdesg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmdept.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmpgroup.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmitgrp.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmgodn.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmunit.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmparty.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmcollhd.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmtrade.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsem.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsession.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmuniversity.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsubmst.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_colregall.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_stockreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_studleg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_recledg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_colreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_stflist.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.rep_studledg.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmprnt.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsetting.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmuserasign.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmviewer1.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmviewer.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmbackup.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmdbpath.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmdbset.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmcompany.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmusermod.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmuser.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmlogin.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.frmmailus.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.MDI.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.Resources.resources
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+D:\My Jobs\VB.Net\EIMS\obj\Debug\RdlCompile.cache
+D:\My Jobs\VB.Net\EIMS\obj\Debug\RdlCompile.compiled
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.exe
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.xml
+D:\My Jobs\VB.Net\EIMS\obj\Debug\EIMS.pdb
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\EIMS.exe
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\EIMS.pdb
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\EIMS.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\office.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\bin\Debug\office.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\ResolveAssemblyReference.cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmjrn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpayment.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmschedule.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmexamresult.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpurchret.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmporder.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmrefund.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmrejection.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmiss.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbkissue.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmscroll.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbksearch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmcourse.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmauthor.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbook.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_bkissuereg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpromote.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpublication.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmshelf.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmenqiry.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmitem.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstaf.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstuddoc.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstudreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmperiod.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmdist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmstat.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmcntr.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmquali.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmoccu.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmdesg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmdept.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmpgroup.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmitgrp.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmgodn.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmunit.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmparty.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmcollhd.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmtrade.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsem.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsession.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmuniversity.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsubmst.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_bkpurchreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_bkstkreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_colregall.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_stockreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_studleg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_recledg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_colreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_stflist.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.rep_studledg.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsplash.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmmenuentry.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmprnt.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsetting.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmupdate.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmuserasign.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmviewer1.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmviewer.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmbackup.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmdbpath.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmdbset.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmcompany.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmusermod.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmuser.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmlogin.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.frmmailus.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.MDI.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.Resources.resources
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\RdlCompile.cache
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\RdlCompile.compiled
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.exe
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.xml
+D:\MY PROJECT(BINOD)\VB.NET\EIMS\obj\Debug\EIMS.pdb
+E:\VB.NET\EIMS\bin\Debug\EIMS.exe
+E:\VB.NET\EIMS\bin\Debug\EIMS.pdb
+E:\VB.NET\EIMS\bin\Debug\EIMS.xml
+E:\VB.NET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\VB.NET\EIMS\bin\Debug\office.dll
+E:\VB.NET\EIMS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VB.NET\EIMS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\VB.NET\EIMS\bin\Debug\office.xml
+E:\VB.NET\EIMS\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmjrn.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmcollvouc.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmocollvouc.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpayment.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmrecvouc.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmschedule.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpayvouc.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmexamresult.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmintrgodn.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpurchinv1.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpurchret.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmporder.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpurchinv.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmrefund.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmrejection.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmiss.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbkissue.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbkpurch.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbkrejection.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbkreturn.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmscroll.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbksearch.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmcourse.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmauthor.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbook.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_bkissuereg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpromote.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpublication.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmshelf.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstrmchang.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmenqiry.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmitem.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstaf.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstuddoc.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstudsearch.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsubasgn.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstudreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmexmgrp.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmperiod.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdist.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmstat.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmcntr.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmquali.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmoccu.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdesg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdept.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmpgroup.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmitgrp.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmgodn.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmunit.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmparty.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmcollhd.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmtrade.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsem.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsession.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmuniversity.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmtaxmst.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsubmst.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_bkpurchreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_bkstkreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_colregall.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_colregstud.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_ocolreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_ocolregstud.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_schdregall.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_stockreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_studleg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_dstdlist.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_godntransfer.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_issuereg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_itreturnreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_pendingreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_purchordreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_purchreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_purchreturnreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_recledg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_colreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_cashbook.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_defulterlist.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_partyledger.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_schdreg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_stdlist.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_stflist.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.rep_studledg.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdbcreate.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsams.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsplash.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmmenuentry.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmprnt.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsetting.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmsmsservice.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmupdate.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmuserasign.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmviewer1.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmmastergrid.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmviewer.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmbackup.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdbpath.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmdbset.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmcompany.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmusermod.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmuser.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmlogin.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.frmmailus.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.MDI.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.Resources.resources
+E:\VB.NET\EIMS\obj\Debug\EIMS.vbproj.GenerateResource.Cache
+E:\VB.NET\EIMS\obj\Debug\RdlCompile.cache
+E:\VB.NET\EIMS\obj\Debug\RdlCompile.compiled
+E:\VB.NET\EIMS\obj\Debug\EIMS.exe
+E:\VB.NET\EIMS\obj\Debug\EIMS.xml
+E:\VB.NET\EIMS\obj\Debug\EIMS.pdb

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch combinationSum",
+            "request": "launch",
+            "mainClass": "combinationSum",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch timeFormat",
+            "request": "launch",
+            "mainClass": "timeFormat",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
             "name": "Launch beggerinTemple",
             "request": "launch",
             "mainClass": "beggerinTemple",

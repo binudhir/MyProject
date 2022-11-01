@@ -52,7 +52,7 @@ public class maxSum_sub_matrix{
 
 public static void main(String[] args){
 int ar[][]={{1, 2, 3, 9}, {4, 5, 6, 2},{8, 3, 2, 6}};
-int max_sum=solve(ar[][])
-    System.out.println("Max Sum is " + max_sum);
+//int max_sum=solve(ar[][])
+    //System.out.println("Max Sum is " + max_sum);
 }
 }
