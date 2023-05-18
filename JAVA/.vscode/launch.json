@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mySqlCon",
+            "request": "launch",
+            "mainClass": "mySqlCon",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
+            "name": "Launch db",
+            "request": "launch",
+            "mainClass": "db",
+            "projectName": "JAVA_13b350fa"
+        },
+        {
+            "type": "java",
             "name": "Launch Codechef",
             "request": "launch",
             "mainClass": "Codechef",
