@@ -1,0 +1,106 @@
+
+
+To create Virtual Environment(I have taken the name as 'myworld')
+windows - py -m venv myworld
+Linux - python -m venv myworld
+
+To Activate the Environment (You must activate everytime when you open command prompt to work)
+windows - myworld\Scripts\activate.bat
+Linux - source myworld/bin/activate
+
+Install Django(Only install Django while you are in the virtual environment)
+windows - py - m pip install Django
+Linux - python -m pip install Django
+
+Version
+windows - py --version
+Linux - python --version
+
+django-admin --version
+
+Create project
+django-admin startproject projectname
+
+After enter to the project folder Run the project
+py manage.py runserver
+Open the IP Address in your browser (127.0.0.1:8000 or localhost:8000)
+
+Create App
+py manage.py startapp appname
+after change the views and urls
+
+py manage.py runserver
+Open the IP Address in your browser (127.0.0.1:8000/appname or localhost:8000/appname)
+
+Create Table (Model)
+my_tennis_club/members/models.py:
+from django.db import models
+
+class Member(models.Model):
+  firstname = models.CharField(max_length=255)
+  lastname = models.CharField(max_length=255)
+
+
+Migration
+py manage.py makemigrations members
+(Django creates a file describing the changes and stores the file in the /migrations/ folder: my_tennis_club/members/migrations/0001_initial.py:)\
+
+The table is not created yet, you will have to run one more command, then Django will create and execute an SQL statement, based on the content of the new file in the /migrations/ folder.
+py manage.py migrat
+Now you have a Member table in you database!
+
+View SQL (Table name Member)
+python manage.py sqlmigrate members 0001
+
+Open Python interpreter (Python shell) to add
+py manage.py shell
+>>> from members.models import Member
+
+>>> Member.objects.all()
+>>> member = Member(firstname='Binu', lastname='Dhir')
+>>> member.save()
+>>> Member.objects.all().values()
+
+Add Multiple Records
+>>> member1 = Member(firstname='Josef', lastname='Dhir')
+>>> member2 = Member(firstname='Kuhu', lastname='Dhir')
+>>> members_list = [member1, member2]
+>>> for x in members_list:
+>>>   x.save()
+
+Update Records
+>>> from members.models import Member
+>>> x = Member.objects.all()[1]
+>>> x.firstname
+>>> x.firstname = "Bhoomika"
+>>> x.save()
+>>> Member.objects.all().values()
+
+Delete Records
+>>> from members.models import Member
+>>> x = Member.objects.all()[4]
+>>> x.firstname
+>>> x.delete()
+>>> Member.objects.all().values()
+
+Add more Fields in the Model
+from django.db import models
+
+class Member(models.Model):
+  firstname = models.CharField(max_length=255)
+  lastname = models.CharField(max_length=255)
+  phone = models.IntegerField(null=True)
+  joined_date = models.DateField(null=True)
+
+py manage.py makemigrations members
+py manage.py migrate
+
+CRUD Operation
+http://127.0.0.1:8000/admin
+
+Create User
+python manage.py createsuperuser
+user: binod
+email:binu.dhir@gmail.com
+pwd:tirupati
+
